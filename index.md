@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## Cześć!
-
+**Cześć!**
 To moja prosta strona zbudowana na [Jekyll](https://jekyllrb.com/) i **GitHub Pages**. 😊
 
 * * *
