@@ -30,4 +30,4 @@ print("Hello World!")
 
 A to jest _myszoskoczek_!
 
-![Myszoskoczek](https://upload.wikimedia.org/wikipedia/commons/6/6b/Gerbil.JPG)
+![Myszoskoczek](https://upload.wikimedia.org/wikipedia/commons/6/6b/Gerbil.JPG){: width="400" }
